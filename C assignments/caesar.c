@@ -1,3 +1,6 @@
+//encrypts message using Caesar's cipher. usage - ./caesar 'number' 
+//example - ./caesar 13
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
