@@ -1,3 +1,5 @@
+//prints a pattern out of hashes according to user input number. usage - ./mario
+
 #include <cs50.h>
 #include <stdio.h>
 
