@@ -1,3 +1,5 @@
+//returns the least number of coins required to return the change owed. usage - ./cash
+
 #include <cs50.h>
 #include <stdio.h>
 
