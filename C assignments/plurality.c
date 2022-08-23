@@ -1,3 +1,5 @@
+//runs a plurality election. usage example - ./plurality Alice Bob Charlie
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
