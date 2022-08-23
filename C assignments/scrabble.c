@@ -1,3 +1,5 @@
+//Determines which of two Scrabble words is worth more. usage - ./scrabble
+
 #include <ctype.h>
 #include <cs50.h>
 #include <stdio.h>
