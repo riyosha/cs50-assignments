@@ -1,3 +1,5 @@
+//determines the reading level of the text provided by user. usage - ./readability
+
 #include <cs50.h>
 #include <stdio.h>
 #include <ctype.h>
