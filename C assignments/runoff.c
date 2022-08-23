@@ -1,3 +1,5 @@
+//implements a runoff election. uasge example - ./runoff Alice Bob Charlie
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
