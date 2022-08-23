@@ -1,3 +1,5 @@
+//checks if a credit card number is valid and returns which company it belongs to. usage - ./credit
+
 #include <cs50.h>
 #include <stdio.h>
 //long calculate_sum1(long number);
