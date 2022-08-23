@@ -1,3 +1,5 @@
+// applies grayscale, sepia, reflection, blur filters to BMPs. usage - ./filter -g INFILE.bmp OUTFILE.bmp (use first letter of filter)
+
 #include <getopt.h>
 #include <stdio.h>
 #include <stdlib.h>
